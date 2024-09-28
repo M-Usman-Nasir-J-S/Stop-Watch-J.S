@@ -1,0 +1,47 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(70, 160, 233);
+}
+
+.img{
+    margin-top: 2%;
+    padding-left: 40%;
+}
+
+.title{
+    text-align: center;
+    background-color: gray;
+    padding: 2%;
+    border: 3px dashed black;
+}
+
+
+.head{
+    text-align: center;
+    margin-top: 4%;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 3%;
+}
+
+
+.btns{
+    background-color: gray;
+    border: 2px dotted black;
+    border-radius: 60%;
+    padding: 1.5%;
+}
+
+.bg-white{
+    background-color: white;
+}
